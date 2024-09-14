@@ -1,0 +1,14 @@
+* {
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    color: forestgreen;
+    margin: 30px 0 50px;
+}
+.gallery img{
+    padding: 3.8px;
+}
+.gallery img:hover{
+    transform: scale(0.9);
+}
